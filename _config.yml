@@ -1,0 +1,53 @@
+title: Alexandre Spaeth
+email: alexandre [at] spaeth.dev
+
+# description: >
+#   This is my personal website. I’m using it as a placeholder for now, but I
+#   might add some content later.
+
+remote_theme: BDHU/minimalist
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+  # social_links:
+  #   - { platform: github, user_url: "https://github.com/Alexerson" }
+  #   - { platform: mastodon, user_url: "" }
+header_pages:
+  - about.md
+
+color-scheme: auto
+github:
+  is_project_page: false
+  is_user_page: true
+
+logo: /assets/images/profile-picture.png
+
+sidebar:
+  - name: GitHub
+    icon: <i class='bx bxl-github'></i>
+    link: https://github.com/Alexerson
+
+
+  - name: Mastodon
+    icon: <i class='bx bxl-mastodon' ></i>
+    link: https://mastodon.social/@Alexerson
+
+  - name: Linkedin
+    icon: <i class='bx bxl-linkedin-square' ></i>
+    link: https://www.linkedin.com/in/alexandre-spaeth/
+
+  - name: Braindate by e180
+    # TODO: add
+    icon: <i class='bx bx-link' ></i>
+    link: https://braindate.com
+
+  - name: HomeyBird
+    # TODO: add
+    icon: <i class='bx bx-link' ></i>
+    link: https://homeybird.com
+
+  - name: Google Scholar
+    icon: <i class='bx bxs-graduation' ></i>
+    link: https://scholar.google.com/citations?user=9T54M2UAAAAJ
