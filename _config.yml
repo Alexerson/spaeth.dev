@@ -39,14 +39,8 @@ sidebar:
     link: https://www.linkedin.com/in/alexandre-spaeth/
 
   - name: Braindate by e180
-    # TODO: add
     icon: <i class='bx bx-link' ></i>
     link: https://braindate.com
-
-  - name: HomeyBird
-    # TODO: add
-    icon: <i class='bx bx-link' ></i>
-    link: https://homeybird.com
 
   - name: Google Scholar
     icon: <i class='bx bxs-graduation' ></i>
