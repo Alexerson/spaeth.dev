@@ -1,6 +1,6 @@
 Welcome to my personal website!
 
-I'm delighted to have you here. I’m **Alexandre Spaeth**, co-founder and Chief Technology Officer (CTO) of two companies: [e180, the creators of Braindate](https://braindate.com), and [HomeyBird](https://homeybird.com).
+I'm delighted to have you here. I’m **Alexandre Spaeth**, co-founder and Chief Technology Officer (CTO) of[e180, the creators of Braindate](https://braindate.com).
 
 With a passion for technology and a love for innovation, I’m deeply interested in Python and Django. I love the simplicity of tools like HTMX and AlpineJS, but don’t disregard new development in the web standards in general.
 
